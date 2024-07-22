@@ -2,6 +2,7 @@
  
 Docker üzerine redis ve rabbitmq kurarak portlarını ve volumeslarını ayarlayarak çalıştıracağız.
 projeyi github üzerinden indirip aşağıdaki kodu yazarak çalıştırabilirsiniz.
+klasorler oluşması için text.txt dosyası eklenmiştir, containerı ayağa kaldırmadan önce siliniz.
 
 github
 
